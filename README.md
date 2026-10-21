@@ -2,7 +2,6 @@
 
 Small Windows GUI for loading a DLL into a process with Windows APIs.
 
-![Aether preview](preview.png)
 
 ## What it does
 
